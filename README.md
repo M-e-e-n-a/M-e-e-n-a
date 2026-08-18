@@ -1,6 +1,6 @@
 I like exploring LLM Evaluations, and mechanistic interpretability.\
 Neural nets are so cool!\
-Actively looking to transition my software engineering background into full-time empirical alignment research.\
+Actively looking to transition my software engineering background into full-time empirical alignment research.
 
 
 
